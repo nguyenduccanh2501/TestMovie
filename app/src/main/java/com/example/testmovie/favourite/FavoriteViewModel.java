@@ -1,11 +1,9 @@
-package com.sun.moviedb_45.ui.favourite;
+package com.example.testmovie.favourite;
 
 import android.databinding.ObservableArrayList;
-import android.databinding.ObservableField;
 import android.databinding.ObservableList;
 
 import com.sun.moviedb_45.base.BaseViewModel;
-import com.sun.moviedb_45.data.model.Actor;
 import com.sun.moviedb_45.data.model.Movie;
 import com.sun.moviedb_45.data.source.MovieRepository;
 

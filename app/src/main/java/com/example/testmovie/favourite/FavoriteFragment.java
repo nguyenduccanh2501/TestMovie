@@ -1,4 +1,4 @@
-package com.sun.moviedb_45.ui.favourite;
+package com.example.testmovie.favourite;
 
 import android.graphics.Color;
 import android.os.Bundle;

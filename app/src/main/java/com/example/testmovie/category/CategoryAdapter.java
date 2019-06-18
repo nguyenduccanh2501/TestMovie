@@ -1,4 +1,4 @@
-package com.sun.moviedb_45.ui.category;
+package com.example.testmovie.category;
 
 import android.databinding.DataBindingUtil;
 import android.databinding.ObservableField;
